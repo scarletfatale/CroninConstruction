@@ -1,0 +1,850 @@
+h1
+
+{
+font-family: helvetica;
+color: #006600;
+font-size:45px;
+position:absolute;
+top:50px;
+left:17em;
+}
+
+h2
+{
+font-family: helvetica;
+color:#F7FFF7;
+font-size:25px;
+position:absolute;
+top:100px;
+left:31.5em;
+opacity:0.25;
+
+}
+
+h6
+{
+color: #006600;
+font-size:50px;
+font-family: helvetica;
+width:50%;
+top:250px;
+position:absolute;
+left:9em;
+opacity:0.50;
+
+}
+
+h7
+{
+color: #006600;
+font-size:100px;
+font-family: helvetica;
+width:50%;
+top:550px;
+position:absolute;
+left:4em;
+opacity:0.10;
+
+}
+
+#background
+{
+
+width:50%;
+top:200px;
+position:absolute;
+left:15%;
+opacity:0.70;
+}
+
+#background1
+{
+width:80%;
+top:10px;
+position:absolute;
+left:75%;
+opacity:0.95;
+}
+
+#background2
+{
+width:80%;
+top:10px;
+position:absolute;
+left:75%;
+opacity:0.95;
+}
+
+
+
+#scroll
+{
+background:#D9FFD9;
+width:40%;
+Height:79%;
+top:200px;
+position:absolute;
+left:50%;
+border-radius:25px;
+opacity:0.75;
+overflow:scroll;
+}
+
+p6
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:120px;
+width:90%;
+left:5%;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+
+
+
+#topneil1
+{
+background-color:#00FF00;
+width:59%;
+Height:10%;
+position:absolute;
+top:50px;
+background-color:#D9FFD9;
+left:17%;
+border-radius:25px;
+opacity:0.9;
+}
+
+#topneil2
+{
+background-color:#00FF00;
+width:73%;
+Height:5%;
+position:absolute;
+top:950px;
+background-color:#D9FFD9;
+left:17%;
+border-radius:25px;
+opacity:0.9;
+}
+
+
+
+#neilpictures
+{
+font-family: helvetica;
+text-align:center;
+width:73.2%;
+left:11em;
+border:1px;
+color: blue;
+position: absolute;
+top:995px;
+color:green;
+background-color:#D9FFD9;
+Height:50px;
+}
+
+.p
+{
+color:white;
+text-align:center;
+background-color:#D9FFD9;
+position:absolute;
+top:30px;
+}
+
+
+#gcontact
+{
+color: #33CC33;
+font-size:25px;
+background:#D9FFD9;
+font-family: Helvetica;
+text-align:center;
+color:#33CC33;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+width:80%;
+border-radius:25px;
+position:absolute;
+top:100px;
+word-spacing:30px;
+}
+
+
+
+
+ul
+{
+color: #33CC33;
+font-size:35px;
+font-family: helvetica;
+text-align:center;
+color:#33CC33;
+padding:2px 2px; 
+border-radius:25px;
+position:absolute;
+top:55%;
+left:18%;
+word-spacing:5px;
+}
+
+ul2
+{
+color: #33CC33;
+font-size:25px;
+background:#D9FFD9;
+font-family: helvetica;
+text-align:center;
+color:#33CC33;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+width:15%;
+border-radius:25px;
+position:absolute;
+top:450px;
+left:10em;
+}
+
+ul1
+{
+color:red;
+font-size:25px;
+background:#D9FFD9;
+font-family: helvetica;
+text-align:center;
+color:#33CC33;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+width:15%;
+border-radius:25px;
+position:absolute;
+top:450px;
+left:30em;
+}
+
+
+a
+{
+color:#009933;
+font-family: helvetica;
+font-size:25px;
+}
+
+
+
+a:hover
+{
+font-size:30px;
+font-family: helvetica;
+}
+
+li:hover
+{
+}
+
+
+
+.welcomeneil img
+{position:absolute;
+top:275px;
+width:1000px;
+height:425px;
+}
+
+li
+{display:inline;
+text-decoration:none;
+color: #33CC33;}
+
+
+
+#neilaboutus
+{
+text-align:center;
+border:1px solid #a1a1a1;
+background:#F7FFF7;
+padding:10px 10px; 
+width:20%;
+Height:55%;
+border-radius:25px;
+position:absolute;
+top:1075px;
+}
+
+#neilservices
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#F7FFF7;
+width:20%;
+Height:55%;
+border-radius:25px;
+position:absolute;
+left: 31em;
+top:1075px;
+}
+
+
+
+#neilappointments
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#F7FFF7;
+width:20%;
+Height:55%;
+border-radius:25px;
+position:absolute;
+top:1075px;
+left: 54em;
+}
+
+
+.pic1 img
+{
+width:250px;
+height:175px;
+}
+
+#neillightbox1 img
+{
+text-align:center;
+width:150px;
+height:100px;
+position: relative;
+top:1000px;
+left:1.85em;
+}
+
+a:link
+ {color:#006600}
+ 
+
+p5
+{
+color: #33CC33;
+font-size:25px;
+background:#D9FFD9;
+font-family: helvetica;
+color:#33CC33;
+border:1px solid #a1a1a1;
+width:80%;
+border-radius:25px;
+position:absolute;
+top:100px;
+}
+
+
+
+#mainlogo img
+{
+top:25px;
+width:50%;
+position: relative;
+}
+
+
+#staff
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:10%;
+height:7%;
+border-radius:25px;
+position:absolute;
+top:1900px;
+left: 35em;
+opacity:0.90;
+
+
+}
+
+
+#address
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:1725px;
+
+}
+
+#openinghours
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:1725px;
+left: 50em;
+}
+
+#address1
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:825px;
+
+}
+
+#openinghours1
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:825px;
+left: 50em;
+}
+
+#address2
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:1205px;
+left:8.5em;
+
+}
+
+#openinghours2
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:1205px;
+left:50em;
+}
+
+
+
+#address3
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:2200px;
+left:8.5em;
+
+}
+
+#openinghours3
+{
+text-align:center;
+border:1px solid #a1a1a1;
+padding:10px 10px; 
+background:#E6FFE6;
+width:25%;
+height:28%;
+border-radius:25px;
+position:absolute;
+top:2200px;
+left:50em;
+}
+
+
+
+.neillogo1 img
+{
+width:100%;
+position: relative;
+top:670px;
+opacity:0.25;
+
+}
+
+.neillogo1E img
+{
+width:100%;
+position: relative;
+top:370px;
+opacity:0.25;
+
+}
+
+
+.neillogo2E img
+{
+width:100%;
+position: relative;
+top:10px;
+opacity:0.25;
+
+}
+
+.neillogo3E img
+{
+width:100%;
+position: relative;
+top:1825px;
+opacity:0.25;
+
+}
+
+.neillogo4E img
+{
+width:100%;
+position: relative;
+top:625px;
+opacity:0.25;
+
+}
+
+
+
+
+#neillogo2 img
+{
+left: 32em;
+width:50%;
+height:50px;
+position: relative;
+top:1105px;
+opacity:0.25;
+
+}
+
+
+
+#neillightbox
+{
+position:absolute;
+top:50px;
+
+}
+
+
+div.neilwrapper {
+width:1000px;
+margin:0 auto;}
+
+
+
+
+#Gh1{
+color:green;
+}
+
+#wrapperoffees1 {
+background-color:white;
+position:absolute;
+top:275px;
+left:15%;
+right:50%;
+text-style:Helvetica;
+
+}
+#profees {
+text-align:left;
+}
+
+
+
+#wrapperoffees2
+{
+background-color:white;
+position:absolute;
+top:350px;
+left:55%;
+}
+
+.Gh2{
+text-align:left;
+color:green;
+text-style:Helvetica;
+}
+
+
+.gontact{
+top:900px;
+left:10em;
+color:green;
+text-style:velvetica;
+}
+
+
+
+#loc2
+{
+font-size:40px;
+font-family: helvetica;
+position:absolute;
+width:25%;
+top:300px;
+left:17em;
+color:green;
+}
+
+#eifel img
+{
+width:450px;
+height:250px;
+position: relative;
+top:40px;
+
+}
+
+#para2
+{
+
+width:80%;
+font-family: helvetica;
+color: #006600;
+font-size:25px;
+position:absolute;
+top:350px;
+
+}
+
+#txt
+{
+top:8px;
+right:250em;
+}
+
+/**Chris**/
+
+body
+{
+font-family:helvetica,Verdana, sans-serif;
+}
+
+div#header
+{
+margin-top:10px;
+margin:0 auto;
+width:90%;
+height:70px;
+}
+
+
+h4
+{
+font: 40px Helvetica, Verdana, sans-serif;
+}
+
+h5
+{
+font: 30px/3 Helvetica, Verdana, sans-serif;
+margin:0;
+padding:0;
+}
+
+
+
+
+
+
+p
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+p1
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:250px;
+width:60%;
+left:10em;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+p2
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:520px;
+width:60%;
+left:10em;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+p3
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:800px;
+width:60%;
+left:10em;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+p4
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:1325px;
+width:60%;
+left:10em;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+p5
+{
+font:200 20px/1.5 Helvetica, Verdana, sans-serif;
+top:1690px;
+width:60%;
+left:10em;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+
+
+
+
+#cmain 
+{
+left:10em;
+top:400px;
+width:80%;
+Text-align:justify;
+font-size:20px;
+position:absolute;
+}
+
+#intro
+{
+font-size:22px;
+font-family: helvetica;
+width:75%;
+position:absolute;
+top:285px;
+
+}
+
+imgs
+{
+float:left;
+margin:10px;
+padding:2px;
+}
+
+#doc
+{
+left:10em;
+width:80%;
+Text-align:justify;
+font-size:20px;
+}
+
+div#nurse
+{
+margin-left:auto;
+margin-right:auto;
+width:80%;
+height:auto;
+Text-align:justify;
+font-size:20px;
+}
+
+div#admin
+{
+margin-left:auto;
+margin-right:auto;
+width:80%;
+height:300px;
+text-align:justify;
+font-size:20px;
+}
+
+div#wrapper
+{
+margin-left:auto;
+margin-right:auto;
+Text-align:center;
+width:100%;
+font-size:20px;
+height:auto;
+float:left;
+}
+
+
+
+div#left img
+{
+height:200px;
+width:25%;
+float:left;
+margin-left:200px;
+}
+
+
+
+div#right
+{
+height:auto;
+font-size:20px;
+float:left;
+width:25%;
+text-align:left;
+line-height:200%
+}
+
+
+#rotating-item-wrapper {
+	position: relative;
+	width: 480px;
+	height: 147px;
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 155px;
+	left: 8em;
+	opacity:0.25;
+}
+
+
+
+
+
+
